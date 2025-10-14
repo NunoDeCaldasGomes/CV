@@ -1,6 +1,7 @@
 body {
     font-family: 'Arial';
     background-image:url(fond.png);
+    backgroud-size: cover
     color: skyblue;
     margin: 0;
     padding: 20px;
@@ -44,6 +45,7 @@ ul{
 li{
     margin: 8px 0;
 }
+
 
 
 
